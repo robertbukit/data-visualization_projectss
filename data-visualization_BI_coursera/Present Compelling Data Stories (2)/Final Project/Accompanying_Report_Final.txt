@@ -1,0 +1,16 @@
+EXECUTIVE SUMMARY: FY 2026 FINANCIAL PERFORMANCE STORYBOARD
+
+1. Data Narrative and Logical Flow
+The primary objective of this dashboard is to narrate the financial journey of the company throughout the fiscal year 2026, moving from "Top Line" Revenue to "Bottom Line" Net Income. The data story begins with a consolidated view of the company’s $5.15 million total revenue, followed by a systematic breakdown of costs across four quarters. By organizing the dashboard in a Z-pattern layout, the viewer is first introduced to high-level KPIs before diving into the "Financial Bridge," which explains exactly how $3.91 million in total expenses (COGS, Marketing, Operations, Interest, and Taxes) impacted the final $1.24 million net income.
+
+2. Design Rationale
+The most critical design choice was the implementation of a Waterfall Chart. Unlike standard bar charts that show totals in isolation, the Waterfall chart provides a visual "bridge." This choice was essential to demonstrate the sequential impact of costs, making the 24.1% profit margin intuitive to grasp. Furthermore, I adopted a minimalist aesthetic by removing background gridlines and borders, thereby increasing the data-ink ratio. This ensures that the stakeholder’s attention remains on the financial variances rather than decorative elements. A professional color palette—using muted greens for revenue and muted reds for expenses—was utilized to provide visual cues without causing cognitive overload.
+
+3. Integration of Peer Feedback
+The final dashboard is a direct result of addressing specific concerns from three key stakeholders:
+- Jordan (Finance Director): Complained about the difficulty of calculating profitability mentally. I addressed this by replacing clustered bars with the Waterfall logic and anchoring the Net Income as a "Total."
+- Taylor (Marketing Manager): Found the previous drafts "visually overwhelming." In response, I softened the color palette and added specific "Insight Callouts" to provide a clear takeaway for each visual.
+- Morgan (Operations Lead): Noted that gridlines and legend placement wasted space. I performed a full "decluttering" process, removing gridlines and repositioning the legend to maximize the drawing area.
+
+4. Conclusion
+Through these refinements, the dashboard has been transformed from a raw data table into a strategic storytelling tool. It not only reports the numbers—such as the peak performance in Q3 ($1.4M Revenue)—but also provides the "why" behind the company’s profitability, enabling faster and more informed executive decision-making.
